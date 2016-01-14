@@ -2,7 +2,7 @@
 
 &nbsp;
 
-Download an Executable JAR: [carsoncraig.github.io/projects](http://carsoncraig.github.io/projects)
+Download an Executable JAR: [carsoncraig.me/projects](http://carsoncraig.me/projects)
 
 &nbsp;
  
