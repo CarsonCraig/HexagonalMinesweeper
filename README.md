@@ -10,12 +10,8 @@ Click [here](http://carsoncraig.me/jar/HexagonalMinesweeper.jar) to download an 
 
 ## Controls:
 
-&nbsp;
- 
 SPACE to Start
- 
-&nbsp;
- 
+
 |Control|Purpose|
 |:-:|:-:|
 |F | Toggle Fullscreen Mode|
