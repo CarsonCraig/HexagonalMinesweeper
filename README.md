@@ -9,6 +9,8 @@ Click [here](http://carsoncraig.me/jar/HexagonalMinesweeper.jar) to download an 
 &nbsp;
 
 ## Controls:
+
+&nbsp;
  
 SPACE to Start
  
