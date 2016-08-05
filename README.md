@@ -1,10 +1,14 @@
-#Hexagonal Minesweeper Controls:
+#Hexagonal Minesweeper
+
+![screenshot](screenshot.jpg)
 
 &nbsp;
 
 Click [here](http://carsoncraig.me/jar/HexagonalMinesweeper.jar) to download an executable JAR.
 
 &nbsp;
+
+## Controls:
  
 SPACE to Start
  
