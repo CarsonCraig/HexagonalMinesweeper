@@ -1,4 +1,4 @@
-## Hexagonal Minesweeper
+# Hexagonal Minesweeper
 
 ![screenshot](screenshot.jpg)
 
