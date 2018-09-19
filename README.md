@@ -4,7 +4,7 @@
 
 &nbsp;
 
-Click [here](http://http://carsoncraig.github.io/jar/HexagonalMinesweeper.jar) to download an executable JAR.
+Click [here](http://carsoncraig.github.io/jar/HexagonalMinesweeper.jar) to download an executable JAR.
 
 &nbsp;
 
